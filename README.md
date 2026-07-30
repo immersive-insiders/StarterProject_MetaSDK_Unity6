@@ -2,7 +2,7 @@
 A baseline repository for VR/MR development using Meta SDK
 
 Repository Details:
-- Unity version [6000.3.9f1 LTS](https://unity.com/releases/editor/qa/lts-releases)
+- Unity version [6000.3.20f1 LTS](https://unity.com/releases/editor/qa/lts-releases)
 - Meta XR SDK
     - [Meta XR Core SDK](https://assetstore.unity.com/packages/tools/integration/meta-xr-core-sdk-269169)
     - [Meta Interaction SDK](https://assetstore.unity.com/packages/tools/integration/meta-xr-interaction-sdk-265014)
